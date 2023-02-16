@@ -1,0 +1,15 @@
+#Name: Shreshta Chowdhury
+#Student#: 162886196
+#Course: OPS445NBB
+
+#!
+import sys
+
+#1st and 2nd arguments, and script name as 3rd argument
+scriptname = sys.argv[0]
+num1 = sys.argv[1]
+num2 = sys.argv[2]
+
+
+print("Numbers you entered are " + num1 + " and " + num2)
+print("Variables and script used are " + num1 + " " + num2 + " " + scriptname)
